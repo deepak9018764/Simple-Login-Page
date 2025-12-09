@@ -1,0 +1,49 @@
+h1,h2{
+text-align:center;
+font-family:'Times New Roman', Times, serif;
+font-weight:500;
+margin-top: 0px;
+}
+
+body{
+
+    background-color:hsla(240, 100%, 90%,0.2);
+}
+
+button{
+background-color: rgb(129, 93, 170);
+text-align: center;
+margin-left: 510PX;
+}
+
+
+h3,button{
+    color: azure;
+    font-weight:200;
+    text-align:center;
+    font-size:large;
+    
+}
+
+h4{
+
+    text-align:center;
+    margin-top: 310px;
+    border:2px solid white;
+}
+form{
+
+display:block;
+text-align: center;
+margin-top: 150PX;
+
+
+
+}
+input{
+    width: 250px;
+}
+a{
+text-align: center;
+font-size: medium;
+}
