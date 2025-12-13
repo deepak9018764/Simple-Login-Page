@@ -36,6 +36,9 @@ form{
 display:block;
 text-align: center;
 margin-top: 150PX;
+border:1px solid black;
+
+
 
 
 
@@ -58,5 +61,5 @@ h3,a{
 }
 ol,li{
     text-align:center;
-    font-size:larger
+    font-size:larger;
 }
