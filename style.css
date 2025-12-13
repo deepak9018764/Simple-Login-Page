@@ -47,3 +47,16 @@ a{
 text-align: center;
 font-size: medium;
 }
+
+h3,a{
+
+    text-align:center;
+    font-size:medium;
+    font-weight:700;
+    color:rgb(226, 120, 120);
+    margin:100px;
+}
+ol,li{
+    text-align:center;
+    font-size:larger
+}
