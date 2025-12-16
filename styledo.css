@@ -2,15 +2,22 @@ ol,li{
 
     text-align:left;
     font-size:large;
-    color:brown;
+    color:rgb(61, 48, 230);
     font-weight:900;
     
     
 }
 body{
     font-family:'Times New Roman', Times, serif;
-    text-align:center;
-    background-color:rgb(232, 232, 210)
+    text-align:left;
+    background-color:hsla(240, 100%,  90%, 0.9);
+    margin-right:5px
    
 }
 
+marquee{
+    color:rgb(184, 9, 9);
+    font-size:30px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:900;
+}
